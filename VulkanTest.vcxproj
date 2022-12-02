@@ -88,13 +88,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;C:\VulkanSDK\1.2.148.1\Include;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;D:\VulkanSDK\1.2.148.1\Include;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\VulkanSDK\1.2.148.1\Lib;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\VulkanSDK\1.2.148.1\Lib;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>/verbose:lib</AdditionalOptions>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
       <AdditionalDependencies>vulkan-1.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -108,7 +108,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;C:\VulkanSDK\1.2.148.1\Include;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;D:\VulkanSDK\1.2.148.1\Include;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
@@ -116,7 +116,7 @@
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\VulkanSDK\1.2.148.1\Lib;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\VulkanSDK\1.2.148.1\Lib;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>/verbose:lib</AdditionalOptions>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
       <AdditionalDependencies>vulkan-1.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -129,12 +129,12 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;C:\VulkanSDK\1.2.148.1\Include;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;D:\VulkanSDK\1.2.148.1\Include;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\VulkanSDK\1.2.148.1\Lib;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\VulkanSDK\1.2.148.1\Lib;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>/verbose:lib</AdditionalOptions>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
       <AdditionalDependencies>vulkan-1.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
@@ -149,14 +149,14 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp17</LanguageStandard>
-      <AdditionalIncludeDirectories>C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;C:\VulkanSDK\1.2.148.1\Include;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\tinyobjloader-master;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\stb-master;D:\VulkanSDK\1.2.148.1\Include;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glm;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
-      <AdditionalLibraryDirectories>C:\VulkanSDK\1.2.148.1\Lib;C:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\VulkanSDK\1.2.148.1\Lib;D:\Users\Sterling\Documents\Visual Studio 2019\Libraries\glfw-3.3.2.bin.WIN64\lib-vc2019;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalOptions>/verbose:lib</AdditionalOptions>
       <IgnoreAllDefaultLibraries>false</IgnoreAllDefaultLibraries>
       <AdditionalDependencies>vulkan-1.lib;glfw3.lib;%(AdditionalDependencies)</AdditionalDependencies>
