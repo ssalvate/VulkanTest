@@ -12,4 +12,4 @@ Vulkan Renderer[Complete] from the Vulkan-tutorial pages (https://vulkan-tutoria
 * Multisampling
 
 <img src="img/VulkanRenderer.png" style=" width:401px ; height:316px">
-<img src="img/VulkanRenderer_2.png" style=" width:960px ; height:540px">
+<img src="img/VulkanRenderer_2.png" style=" width:480px ; height:270px">
