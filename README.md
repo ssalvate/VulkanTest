@@ -1,5 +1,5 @@
 # Vulkan Renderer
-Vulkan Renderer[Complete] from the Vulkan-tutorial pages (https://vulkan-tutorial.com/Introduction).
+Vulkan Renderer[Complete] from the Vulkan-tutorial pages ([Link](https://vulkan-tutorial.com/Introduction)).
 
 ## Topics Covered:
 * Drawing a triangle
@@ -11,5 +11,6 @@ Vulkan Renderer[Complete] from the Vulkan-tutorial pages (https://vulkan-tutoria
 * Generating mipmaps
 * Multisampling
 
-<img src="img/VulkanRenderer.png" style=" width:401px ; height:316px">
+<img src="img/ScreenRecord.gif" style=" width:401px ; height:316px">
+###### Note: Model by [nigelgoh](https://sketchfab.com/nigelgoh), not designed to be viewed from rear.
 <img src="img/VulkanRenderer_2.png" style=" width:480px ; height:270px">
